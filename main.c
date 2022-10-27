@@ -9,6 +9,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    printf("Hello, World!\n");
+    printf("uso 2(dos)");
     return 0;
 }
