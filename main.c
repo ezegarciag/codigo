@@ -9,6 +9,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    printf("uso 4(cuatro)");
+    printf("uso 7(cuatro)");
     return 0;
 }
