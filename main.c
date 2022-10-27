@@ -9,6 +9,10 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
+<<<<<<< HEAD
     printf("uso 7(siete)");
+=======
+    printf("uso 8(ocho)");
+>>>>>>> ramaeze
     return 0;
 }
